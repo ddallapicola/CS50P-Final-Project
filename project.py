@@ -81,8 +81,6 @@ def edit_question(q_list: list, csv_file: str) -> None:
     # Choose question to edit:
     q = _choose_question(q_list, csv_file)
     while True:
-        # Conservation of the original question. Will be used to remove old question and append the edited one:
-        old_q = q
         # Print the question to be edited:
         print(f"\nQuestion to be edited:\n")
         print(f"{q}")
@@ -121,8 +119,6 @@ def edit_question(q_list: list, csv_file: str) -> None:
                     case 4:
                         go_to_menu = True
                 break
-        # Replace old question with the edited one:
-        q_list[q_list.index(old_q)] = q
         # Rewrite csv file:
         _csv_rewrite(q_list, csv_file)
         if go_to_menu == False:
@@ -291,18 +287,6 @@ def _input_q_statment(inp='\nEnter the question statement: ') -> str:
         else:
             break
     return question
-
-
-    print("Actual options:")
-    for i, o in enumerate(q.options):
-        print(f"{i+1}. {o}")
-    while True:
-        opt = input(inp)
-        if opt not in range(1, len(q.options)+1):
-            print("Invalid option. Try again.")
-        else:
-            break
-    return q.options[opt-1]
 
 def _edit_q_option(q: Question) -> Question:
     print(f"\nQuestion to be edited:\n")
