@@ -1,0 +1,77 @@
+Selected questions:
+
+Question 1: Which is the fastest land animal?
+A. Kangaroo
+B. Horse
+C. Elephant
+D. Cheetah
+
+Question 2: Which of these instruments are string instruments?
+A. Guitar
+B. Flute
+C. Piano
+D. Violin
+
+Question 3: Which of these are primary colors?
+A. Red
+B. Yellow
+C. Green
+D. Blue
+
+Question 4: Which numbers are even?
+A. 4
+B. 3
+C. 2
+D. 1
+
+Question 5: Which of these are units of time?
+A. Hour
+B. Second
+C. Meter
+D. Kilogram
+
+Question 6: Which planets are known as gas giants?
+A. Mars
+B. Jupiter
+C. Venus
+D. Saturn
+
+Question 7: Which shape has four equal sides?
+A. Pentagon
+B. Square
+C. Triangle
+D. Rectangle
+
+Question 8: What is 5 multiplied by 2?
+A. 7
+B. 5
+C. 10
+D. 12
+
+Question 9: Which of these are fruits?
+A. Apple
+B. Lettuce
+C. Banana
+D. Carrot
+
+Question 10: Which planet is known as the Red Planet?
+A. Jupiter
+B. Earth
+C. Venus
+D. Mars
+
+####################################################################
+####################################################################
+
+Answers:
+
+Question 1: ['D']
+Question 2: ['A', 'D']
+Question 3: ['A', 'D']
+Question 4: ['A', 'C']
+Question 5: ['A', 'B']
+Question 6: ['B', 'D']
+Question 7: ['B']
+Question 8: ['C']
+Question 9: ['A', 'C']
+Question 10: ['D']

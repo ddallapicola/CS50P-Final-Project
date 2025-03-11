@@ -1,0 +1,32 @@
+question,options,answer
+How many legs a spider have?,"['Zero legs', 'Four legs', 'Six legs', 'Eight legs']",['Eight legs']
+What is the capital of France?,"['Berlin', 'Madrid', 'Paris', 'Lisbon']",['Paris']
+What is 5 multiplied by 2?,"['5', '7', '10', '12']",['10']
+What color is the sky on a clear day?,"['Red', 'Blue', 'Green', 'Yellow']",['Blue']
+Which animal is known as the King of the Jungle?,"['Elephant', 'Lion', 'Giraffe', 'Tiger']",['Lion']
+What is the boiling point of water in Celsius?,"['50°C', '75°C', '100°C', '150°C']",['100°C']
+How many days are in a week?,"['5', '6', '7', '8']",['7']
+What is the opposite of 'cold'?,"['Hot', 'Warm', 'Cool', 'Frozen']",['Hot']
+What is 15 divided by 3?,"['3', '4', '5', '6']",['5']
+Which planet is known as the Red Planet?,"['Earth', 'Mars', 'Jupiter', 'Venus']",['Mars']
+What is the largest mammal in the world?,"['Elephant', 'Blue Whale', 'Giraffe', 'Hippopotamus']",['Blue Whale']
+Which shape has four equal sides?,"['Triangle', 'Rectangle', 'Square', 'Pentagon']",['Square']
+What do bees produce?,"['Milk', 'Honey', 'Oil', 'Sugar']",['Honey']
+What is the main ingredient in bread?,"['Rice', 'Flour', 'Sugar', 'Salt']",['Flour']
+Which is the fastest land animal?,"['Elephant', 'Cheetah', 'Horse', 'Kangaroo']",['Cheetah']
+How many continents are there on Earth?,"['Five', 'Six', 'Seven', 'Eight']",['Seven']
+Which of these animals can fly?,"['Dog', 'Eagle', 'Penguin', 'Bat']","['Eagle', 'Bat']"
+Which of these are primary colors?,"['Red', 'Green', 'Blue', 'Yellow']","['Red', 'Blue']"
+Which numbers are even?,"['1', '2', '3', '4']","['2', '4']"
+Which of these are programming languages?,"['Python', 'Java', 'HTML', 'Excel']","['Python', 'Java']"
+Which planets are known as gas giants?,"['Mars', 'Jupiter', 'Venus', 'Saturn']","['Jupiter', 'Saturn']"
+Which of these are fruits?,"['Carrot', 'Apple', 'Banana', 'Lettuce']","['Apple', 'Banana']"
+Which elements are noble gases?,"['Oxygen', 'Helium', 'Neon', 'Carbon']","['Helium', 'Neon']"
+Which of these are mammals?,"['Shark', 'Dolphin', 'Crocodile', 'Bat']","['Dolphin', 'Bat']"
+Which of these are units of time?,"['Kilogram', 'Hour', 'Meter', 'Second']","['Hour', 'Second']"
+Which of these instruments are string instruments?,"['Piano', 'Violin', 'Guitar', 'Flute']","['Violin', 'Guitar']"
+Which of these sports are played with a ball?,"['Tennis', 'Basketball', 'Swimming', 'Cycling']","['Tennis', 'Basketball']"
+Which of these numbers are prime?,"['2', '4', '5', '6']","['2', '5']"
+Which of these can be found in space?,"['Stars', 'Planets', 'Oceans', 'Mountains']","['Stars', 'Planets']"
+Which of these are sources of renewable energy?,"['Coal', 'Solar', 'Wind', 'Gasoline']","['Solar', 'Wind']"
+Which of these countries are in America?,"['Brazil', 'Argentina', 'Canada', 'Italy']","['Brazil', 'Argentina', 'Canada']"
